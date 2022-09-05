@@ -1,0 +1,28 @@
+---
+title: 'Boeing 777'
+date: 'May 12, 2021'
+excerpt: 'In this review, we will be looking at the Boeing 777 and more'
+cover_image: '/images/posts/img7.jpg'
+category: 'Boeing'
+author: 'John Doe'
+author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
+---
+
+## Boeing 777
+
+The Boeing 777, commonly referred to as the Triple Seven, is an American long-range wide-body airliner developed and manufactured by Boeing Commercial Airplanes. It is the world's largest twinjet.[4][5] The 777 was designed to bridge the gap between Boeing's other wide body airplanes, the twin-engined 767 and quad-engined 747, and to replace older DC-10s and L-1011 trijets. Developed in consultation with eight major airlines, with a first meeting in January 1990, the program was launched in October, with an order from United Airlines. The prototype was rolled out in April 1994, and first flew in June. The 777 entered service with the launch customer, United Airlines, in June 1995. Longer range variants were launched in 2000, and were first delivered in 2004.
+
+It can accommodate a ten–abreast seating layout and has a typical 3-class capacity of 301 to 368 passengers, with a range of 5,240 to 8,555 nautical miles (9,700 to 15,840 km). It is recognizable for its large-diameter turbofan engines, six wheels on each main landing gear, fully circular fuselage cross-section,[6] and a blade-shaped tail cone.[7] It is the first Boeing aircraft with fly-by-wire controls. It initially competed with the Airbus A340 and the McDonnell Douglas MD-11, both now out of production, and as of 2021 competes with the Airbus A350 and A330-900.
+
+The original 777 with a maximum takeoff weight (MTOW) of 545,000–660,000 lb (247–299 t) was produced in two fuselage lengths: the initial -200 was followed by the extended-range 777-200ER in 1997; and the 33.25 ft (10.13 m) longer 777-300 in 1998. Those 777 Classics were powered by 77,200–98,000 lbf (343–436 kN) General Electric GE90, Pratt & Whitney PW4000, or Rolls-Royce Trent 800 engines.[8] The longer-range 777-300ER, with a MTOW of 700,000–775,000 lb (318–352 t), entered service in 2004, the ultra long-range 777-200LR in 2006, and the 777F freighter in 2009. These long haul variants use 110,000–115,300 lbf (489–513 kN) GE90 engines and have extended raked wingtips. In November 2013, Boeing announced the 777X development with the -8 and -9 variants, both featuring composite wings with folding wingtips and General Electric GE9X engines.
+
+The 777 has been ordered and delivered more than any other wide-body airliner; as of July 2022, more than 60 customers had placed orders for 2,122 aircraft of all variants, with 1,690 delivered. The most common and successful variant is the 777-300ER with 838 aircraft ordered and 832 delivered.[2] By March 2018, the 777 had become the most produced Boeing wide-body jet, overtaking the Boeing 747.[9] As of 2018, Emirates was the largest operator, with 163 aircraft.
+
+## Background
+
+In the early 1970s, the Boeing 747, McDonnell Douglas DC-10, and the Lockheed L-1011 TriStar became the first generation of wide-body passenger airliners to enter service.[14] In 1978, Boeing unveiled three new models: the twin-engine Boeing 757 to replace its 727, the twin-engine 767 to challenge the Airbus A300, and a trijet 777 concept to compete with the DC-10 and L-1011.[15][16][17] The mid-size 757 and 767 launched to market success, due in part to 1980s' extended-range twin-engine operational performance standards (ETOPS) regulations governing transoceanic twinjet operations.[18] These regulations allowed twin-engine airliners to make ocean crossings at up to three hours' distance from emergency diversionary airports.[19] Under ETOPS rules, airlines began operating the 767 on long-distance overseas routes that did not require the capacity of larger airliners.[18] The trijet 777 was later dropped, following marketing studies that favored the 757 and 767 variants.[20] Boeing was left with a size and range gap in its product line between the 767-300ER and the 747-400.[21]
+
+By the late 1980s, DC-10 and L-1011 models were approaching retirement age, prompting manufacturers to develop replacement designs.[22] McDonnell Douglas was working on the MD-11, a stretched and upgraded successor of the DC-10,[22] while Airbus was developing its A330 and A340 series.[22] In 1986, Boeing unveiled proposals for an enlarged 767, tentatively named 767-X,[23] to target the replacement market for first-generation wide-bodies such as the DC-10,[19] and to complement existing 767 and 747 models in the company lineup.[24] The initial proposal featured a longer fuselage and larger wings than the existing 767,[23] along with winglets.[25] Later plans expanded the fuselage cross-section but retained the existing 767 flight deck, nose, and other elements.[23]
+
+Airline customers were uninterested in the 767-X proposals, and instead wanted an even wider fuselage cross-section, fully flexible interior configurations, short- to intercontinental-range capability, and an operating cost lower than that of any 767 stretch.[19] Airline planners' requirements for larger aircraft had become increasingly specific, adding to the heightened competition among aircraft manufacturers.[22] By 1988, Boeing realized that the only answer was a new clean-sheet design, which became the 777 twin-jet.[26] The company opted for the twin-engine configuration given past design successes, projected engine developments, and reduced-cost benefits.[27] On December 8, 1989, Boeing began issuing offers to airlines for the 777.[23]
+
